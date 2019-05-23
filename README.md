@@ -1,6 +1,6 @@
 # Statistical-Analysis-and-SPSS-Application
 Statistical Analysis and SPSS Application
-统计分析与SPSS应用的＊＊笔记＊＊
+统计分析与SPSS应用的笔记
 
 参考课本
 
